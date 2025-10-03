@@ -7,9 +7,9 @@ All live Projects in One Repo.
 https://universe-e9x2ulwhj-gaurav-salunkhes-projects.vercel.app/
 
 # gym-demo
-gym-demo-1-eosin.vercel.app
-Gourav-512/gym-demo
-Update README.md
+[gym-demo-1-eosin.vercel.app](https://gym-demo-1-eosin.vercel.app/)
+"" Gourav-512/gym-demo /n
+Update README.md /n
 Sep 19 on
 main
 
